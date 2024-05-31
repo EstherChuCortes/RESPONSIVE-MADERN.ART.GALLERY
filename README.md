@@ -25,8 +25,12 @@ Este proyecto se centra en crear un sitio web responsive para una galería de ar
   <img src="/img/iPhone-13-PRO.png" alt="Vista /iPhone-13-PRO"/>
 </div>
 
-## Vista Previa gitpages 🖼️
-[**Vista previa en Gitpages**](https://estherchucortes.github.io/Responsive-Madern.Art.Gallery/)
+  <a href="https://github.com/EstherChuCortes/Responsive-Madern.Art.Gallery" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://estherchucortes.github.io/Responsive-Madern.Art.Gallery/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VER WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
 
 
 ---
